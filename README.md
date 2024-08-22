@@ -1,0 +1,1 @@
+An iOS application which acts as a marketplace for high school FRC robotics teams to lend and share tools and materials. Uses google maps to help local teams connect, and uses Firebase to keep team data secure. Compatible with iOS and Android devices.
